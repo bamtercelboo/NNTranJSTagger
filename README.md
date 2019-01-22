@@ -1,5 +1,7 @@
 # JointPS
-The code of [A Simple and Effective Neural Model for Joint Word Segmentation and POS Tagging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351918).
+The code of [A Simple and Effective Neural Model for Joint Word Segmentation and POS Tagging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351918).  
+
+A re-implementation based on Pytorch [bamtercelboo/pytorch_Joint-Word-Segmentation-and-POS-Tagging](https://github.com/bamtercelboo/pytorch_Joint-Word-Segmentation-and-POS-Tagging).
 
 # Usage  
 
